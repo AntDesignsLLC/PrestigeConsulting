@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PrestigeConsulting/static/css/main.b749bbd2.css",
+    "main.js": "/PrestigeConsulting/static/js/main.5d72e4d3.js",
+    "static/js/787.346ea663.chunk.js": "/PrestigeConsulting/static/js/787.346ea663.chunk.js",
+    "static/media/bg.jpg": "/PrestigeConsulting/static/media/bg.2b100aa49bc063302e3a.jpg",
+    "static/media/cashapp.png": "/PrestigeConsulting/static/media/cashapp.ad67f64ceaca566af1dc.png",
+    "static/media/logo_name2.png": "/PrestigeConsulting/static/media/logo_name2.bf838ae9fa82907e8b2e.png",
+    "static/media/stripe.png": "/PrestigeConsulting/static/media/stripe.9f90615bbccf1d1be0d4.png",
+    "static/media/zelle.png": "/PrestigeConsulting/static/media/zelle.56d215b6413129582231.png",
+    "static/media/consultation.png": "/PrestigeConsulting/static/media/consultation.e66ae1d4f884c6a48ee1.png",
+    "index.html": "/PrestigeConsulting/index.html",
+    "main.b749bbd2.css.map": "/PrestigeConsulting/static/css/main.b749bbd2.css.map",
+    "main.5d72e4d3.js.map": "/PrestigeConsulting/static/js/main.5d72e4d3.js.map",
+    "787.346ea663.chunk.js.map": "/PrestigeConsulting/static/js/787.346ea663.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b749bbd2.css",
+    "static/js/main.5d72e4d3.js"
+  ]
+}
